@@ -1,0 +1,2 @@
+- [ ] Genshin daily routine ⏬ 🔁 every day when done 🛫 2024-06-17
+- [ ] 

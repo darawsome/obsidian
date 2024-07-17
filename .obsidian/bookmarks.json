@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1717984671654,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1717984671654,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1719227913119,
+              "path": "Film/Watch List.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1719227913119,
+              "path": "Film/Movie Gallery.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1717984671654,
+              "path": "Film/Chime.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1717984671654,
+              "path": "Film/Chime.md.edtz",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1717984671654,
+              "path": "Film/In a Violent Nature.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1717984671654,
+              "path": "Film/In a Violent Nature.md.edtz",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1717984671654,
+              "path": "Film/The Watchers.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1717984671654,
+              "path": "Film/Watchlist.md.edtz",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1719227913119,
+              "path": "Film/Evil Does Not Exist.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1719227913119,
+              "path": "Film/La Chimera.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1719227913119,
+              "path": "Film/The Florida Project.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1717984671654,
+              "path": "Film/Watchlist.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "\\\\Film"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

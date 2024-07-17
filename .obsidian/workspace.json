@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "c74a1411ac66acca",
+    "type": "split",
+    "children": [
+      {
+        "id": "d62453044216a9fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "218d5a79c03b0a70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Digital Signal Processing/Discrete Time Signals and Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24808874007cd9d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Film/Movie Gallery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "787930478d842b11",
+    "type": "split",
+    "children": [
+      {
+        "id": "380351ef2b25c698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8635a3962c1bc2ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30f71ad0a0bc8e6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b329e26d7f8a1509",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3118d75bfffef3f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "07e90d53691b2b37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6931d9bd25cc408d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Film/Movie Gallery.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de00afa1f82dad82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Film/Movie Gallery.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4fa6149fe210e49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e8288f3555b9391",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Film/Movie Gallery.md"
+              }
+            }
+          },
+          {
+            "id": "e4155d7300fd40e3",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "custom-sort:Toggle custom sorting": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "24808874007cd9d9",
+  "lastOpenFiles": [
+    "Film/Watch List.md",
+    "Film/Movie Gallery.md",
+    "Film/Despicable Me 4.md",
+    "Film/Longlegs.md",
+    "Film/MaXXXine.md",
+    "Film/Chime.md",
+    "Film/The Bikeriders.md",
+    "Film/Kinds of Kindness.md",
+    "Film/Kinds of Kindness1.md",
+    "Film/A Quiet Place Day One.md",
+    "Education/Digital Signal Processing/Discrete Time Signals and Systems.md",
+    "Excalidraw/Drawing 2024-06-29 11.47.00.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Education/Digital Signal Processing/Untitled.md",
+    "Attachments/Alan V. Oppenheim, Ronald W. Schafer - Digital Signal Processing-Prentice-Hall (1975).pdf",
+    "Templates/Class Notes.md",
+    "Templates/Core.md",
+    "Templates/Movies.md",
+    "Education/Digital Signal Processing",
+    "Education/Untitled.md",
+    "Education",
+    "Film/The Florida Project.md",
+    "Film/La Chimera.md",
+    "Film/Evil Does Not Exist.md",
+    "Film/In a Violent Nature.md",
+    "Film/Watchlist.md",
+    "Sean Baker.md",
+    "Books/Dune Messiah.md",
+    "Scripts/movies.js",
+    "Scripts",
+    "New folder",
+    "Books/Annotations.md",
+    "Attachments/Frank Herbert - Dune Messiah.pdf",
+    "Untitled.canvas"
+  ]
+}

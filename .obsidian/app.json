@@ -1,0 +1,13 @@
+{
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Attachments",
+  "showInlineTitle": false,
+  "spellcheckDictionary": [
+    "Ayato",
+    "Arrakis",
+    "Mohiam",
+    "qizara"
+  ],
+  "showUnsupportedFiles": false
+}
